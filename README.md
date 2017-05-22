@@ -38,5 +38,14 @@ D. Make and Install(It will take like 1 hour and half, take a good break while m
 2. sudo make install
 3. Check the version by type: pkg-config --modversion opencv
 
+----------------------------------------------------
 
+Run the code:
+
+1. Paste the code into the Desktop of your Ubuntu system
+2. Open terminal
+3. cd Desktop
+4. python face_detect.py
+
+You would be able to see the camera screen and detected output on screen streaming and terminal
 
