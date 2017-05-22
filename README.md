@@ -48,4 +48,5 @@ Run the code:
 4. python face_detect.py
 
 You would be able to see the camera screen and detected output on screen streaming and terminal
+Frame Rate is about 10-12 frames per second.
 
